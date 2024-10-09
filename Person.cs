@@ -1,15 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 
-namespace DemoGitHub.Classes
-{
-    public class Person
-    {
-
-      //Det här har skrivits av Erik Wallen 
-
-    }
-}
+Console.WriteLine("Thanks Erik, This is a new comment.");
